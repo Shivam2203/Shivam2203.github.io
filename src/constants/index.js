@@ -123,7 +123,7 @@ const technologies = [
 const experiences = [
   {
     title: "SDE Intern",
-    company_name: "Amazon",
+    company_name: "Celebal technology",
     icon: amazon,
     iconBg: "#383E56",
     date: "March 2023 - Sep 2023",
@@ -147,7 +147,7 @@ const experiences = [
   },
   {
     title: "Teaching Assistant",
-    company_name: "University of San Francisco",
+    company_name: "JK Lkashmipat University",
     icon: usf,
     iconBg: "#383E56",
     date: "Jan 2022 - Dec 2023",
@@ -163,7 +163,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I am confident that Anshaj will be able to succeed with his computer science major. He has the skill and drive that are optimal for any academic pursuits.He has the qualities that an educator looks for in all of their students, and I cannot recommend him enough.",
+      "I am confident that Shivam will be able to succeed with his computer science major. He has the skill and drive that are optimal for any academic pursuits.He has the qualities that an educator looks for in all of their students, and I cannot recommend him enough.",
     name: "Brayan shaffer",
     designation: "Professor",
     company: "IIT Kanpur",
@@ -171,16 +171,16 @@ const testimonials = [
   },
   {
     testimonial:
-      "Great student, very hard working and dedicated. I will recomend him for Tapai confrence and future opportunities.",
-    name: "Olga Karpenko",
+      "Great student, very hard working and dedicated. I will recomend him for Jaipur confrence and future opportunities.",
+    name: "Raisena",
     designation: "Professor",
-    company: "University of San Francisco",
+    company: "University of Delhi",
     image: olga,
   },
   {
     testimonial:
-      "Anshaj is avery good devlopment engineer. he has a good sense of ownership and can get projects done on time.",
-    name: "Wei Zhang",
+      "Shivam is avery good devlopment engineer. he has a good sense of ownership and can get projects done on time.",
+    name: "M. Raj Kapoor",
     designation: "Software Development Engineer",
     company: "Amazon",
     image: wei,
@@ -189,9 +189,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Modern Bank App",
+    name: "text Classification",
     description:
-      "All device compatible banking application that allows users to view their account balances and transfer money between accounts.",
+      "Text classification using Bert Model.",
     tags: [
       {
         name: "react",
@@ -203,8 +203,8 @@ const projects = [
       },
     ],
     image: bank,
-    source_code_link: "https://github.com/AnshajVats/hoboBank",
-    live_link: "https://anshajvats.github.io/hoboBank",
+    source_code_link: "https://github.com/Shivam2203/LLM-project2-Text-Classification-using-BERT-Model",
+    live_link: "https://github.com/Shivam2203/LLM-project2-Text-Classification-using-BERT-Model",
   },
   {
     name: "GPT-3",
@@ -225,8 +225,8 @@ const projects = [
       },
     ],
     image: GPT3,
-    source_code_link: "https://github.com/AnshajVats/GPT3-Webpage",
-    live_link: "https://anshajvats.github.io/GPT3-Webpage/",
+    source_code_link: "https://github.com/Shivam2203/LLM-Project_Text_Classification_using_Transformer_Encoder_Model",
+    live_link: "https://github.com/Shivam2203/LLM-Project_Text_Classification_using_Transformer_Encoder_Model",
   },
   {
     name: "Dall-E",
@@ -256,13 +256,13 @@ const projects = [
       },
     ],
     image: OpenAI,
-    source_code_link: "https://github.com/AnshajVats/dall-e-",
-    live_link: "https://anshajvats.github.io/Dall-E-FrontEnd/",
+    source_code_link: "https://github.com/Shivam2203/LLM-Project_Text_Classification_using_Transformer_Encoder_Model",
+    live_link: "https://github.com/Shivam2203/LLM-Project_Text_Classification_using_Transformer_Encoder_Model",
   },
   {
-    name: "Tank Game",
+    name: "tic tac game",
     description:
-      "A 2D tank game created using java. The game is a multiplayer game where players can play against each other.",
+      "The Game is built to help beginners understand Quantum Superposition in a fun way..",
     tags: [
       {
         name: "Java",
@@ -274,13 +274,13 @@ const projects = [
       },
     ],
     image: tank,
-    source_code_link: "https://github.com/AnshajVats/tank-game",
-    live_link: "https://github.com/AnshajVats/tank-game",
+    source_code_link: "https://github.com/Shivam2203/Quantagame",
+    live_link: "https://github.com/Shivam2203/Quantagame",
   },
   {
-    name: "YouTube Clone",
+    name: "Quantagame",
     description:
-      "A clone of YouTube created using Express, Mysql, javaScript. The application allows users to search for videos and watch them.",
+      "The Game is built to help beginners understand Quantum Superposition in a fun way..",
     tags: [
       {
         name: "react",
@@ -301,7 +301,7 @@ const projects = [
     ],
     image: YouTube,
     source_code_link:
-      "https://github.com/AnshajVats/Youtube-Clone-FullStack-website",
+      "https://github.com/Shivam2203/Quantagame",
   },
 ];
 
