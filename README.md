@@ -11,7 +11,6 @@ A personal portfolio website showcasing the work and skills of Shivam Patel. Thi
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -29,7 +28,7 @@ This portfolio website serves as a digital resume for Shivam Patel. It includes 
 
 ## Installation
 
-As this is a portfolio website, no installation is required. Simply visit the live site [here](https://Shivam2203.github.io/Portfolio/).
+As this is a portfolio website, no installation is required. Simply visit the live site [here](https://shivam2203.github.io/).
 
 ## Usage
 
