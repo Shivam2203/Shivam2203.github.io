@@ -43,9 +43,9 @@ const Contact = () => {
         templateKey,
         {
           from_name: form.name,
-          to_name: "Anshaj vats",
+          to_name: "Shivam Patel",
           from_email: form.email,
-          to_email: "9931633906vats@gmail.com",
+          to_email: "shivampatel2203@gmail.com",
           message: form.message,
         },
         publicKey // Use the correct variable here
