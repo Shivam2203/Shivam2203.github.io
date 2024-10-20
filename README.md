@@ -14,7 +14,7 @@ A personal portfolio website showcasing the work and skills of Shivam Patel. Thi
 
 ## Demo
 
-https://Shivam2203.github.io/Portfolio/
+https://shivam2203.github.io/
 
 ## Description
 
